@@ -1,6 +1,6 @@
-# jeremyfairbank.com
+# jeremyfairbank.com :a great project
 
-This repo contains the source for [jeremyfairbank.com](https://jeremyfairbank.com).
+This repository contains the source for [jeremyfairbank.com](https://jeremyfairbank.com).
 
 ## Technology
 
